@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\SAMET\source\repos\HastaneRandevuSistemi\HastaneRandevuSistemi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/SAMET/source/repos/HastaneRandevuSistemi/HastaneRandevuSistemi/Views/Doktor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9rdG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMET/source/repos/HastaneRandevuSistemi/HastaneRandevuSistemi/Views/Hasta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFzdGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/SAMET/source/repos/HastaneRandevuSistemi/HastaneRandevuSistemi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -28,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/SAMET/source/repos/HastaneRandevuSistemi/HastaneRandevuSistemi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SAMET/source/repos/HastaneRandevuSistemi/HastaneRandevuSistemi/Views/Shared/_NavbarLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZiYXJMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/SAMET/source/repos/HastaneRandevuSistemi/HastaneRandevuSistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
