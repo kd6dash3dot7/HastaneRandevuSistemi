@@ -1,4 +1,5 @@
-﻿using HastaneRandevuSistemi.Models;
+﻿using HastaneRandevuSistemi.Data;
+using HastaneRandevuSistemi.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -12,6 +13,7 @@ namespace HastaneRandevuSistemi.Controllers
         {
             _logger = logger;
         }
+        
 
         public IActionResult Index()
         {

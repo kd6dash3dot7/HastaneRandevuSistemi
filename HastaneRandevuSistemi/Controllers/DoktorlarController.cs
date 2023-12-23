@@ -2,7 +2,7 @@
 
 namespace HastaneRandevuSistemi.Controllers
 {
-    public class AnaBilimDaliController : Controller
+    public class DoktorlarController : Controller
     {
         public IActionResult Index()
         {

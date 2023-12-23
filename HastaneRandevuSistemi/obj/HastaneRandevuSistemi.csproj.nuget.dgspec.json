@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAMET\\source\\repos\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {}
+    "C:\\Users\\SAMET\\Documents\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAMET\\source\\repos\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {
+    "C:\\Users\\SAMET\\Documents\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAMET\\source\\repos\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
+        "projectUniqueName": "C:\\Users\\SAMET\\Documents\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
         "projectName": "HastaneRandevuSistemi",
-        "projectPath": "C:\\Users\\SAMET\\source\\repos\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
+        "projectPath": "C:\\Users\\SAMET\\Documents\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\HastaneRandevuSistemi.csproj",
         "packagesPath": "C:\\Users\\SAMET\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAMET\\source\\repos\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\obj\\",
+        "outputPath": "C:\\Users\\SAMET\\Documents\\GitHub\\HastaneRandevuSistemi\\HastaneRandevuSistemi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAMET\\AppData\\Roaming\\NuGet\\NuGet.Config",
